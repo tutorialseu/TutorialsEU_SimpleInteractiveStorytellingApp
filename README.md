@@ -1,2 +1,2 @@
 # TutorialsEU_SimpleInteractiveStorytellingApp
-The Simple Interactive Storytelling App  project for the first chapter of the Tiny C# Projects book.
+The Simple Interactive Storytelling App  project for the first chapter of the C# by Example book.
